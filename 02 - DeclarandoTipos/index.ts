@@ -36,20 +36,20 @@ interface Usuario {
 const newUser: Usuario = {
   name: "Giovani",
   email: "developer.cavalheri@gmail.com",
-  idade: 20,
+  idade: 222,
 };
 
 // ==> Exercicio 08
 const usuarios: Usuario[] = [
   {
-    name: "GUI FICHER VIADO",
-    email: "guificherdaocu@gmail.com",
+    name: "GUI LEGAL",
+    email: "guificher@gmail.com",
     idade: 20,
   },
 
   {
-    name: "SAMUEL GAY DA MUITO ORABO",
-    email: "SamuelfeioGAy@gmail.com",
+    name: "SAMUEL ORTEGAAA",
+    email: "Samuelortegfa@gmail.com",
     idade: 42,
   },
   {
